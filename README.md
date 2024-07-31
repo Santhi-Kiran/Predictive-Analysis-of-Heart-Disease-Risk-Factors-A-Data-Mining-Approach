@@ -1,0 +1,2 @@
+# Predictive-Analysis-of-Heart-Disease-Risk-Factors-A-Data-Mining-Approach
+This project explores and predicts heart disease risk factors using data from the Behavioral Risk Factor Surveillance System. It employs exploratory data analysis and various machine learning algorithms to develop robust predictive models for assessing an individual's risk of heart disease based on health-related variables.
